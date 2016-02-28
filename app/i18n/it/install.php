@@ -63,8 +63,8 @@ return array(
 			'ok' => 'Il tuo HTTP REFERER riconosciuto corrisponde al tuo server.',
 		),
 		'json' => array(
-			'nok' => 'You lack a recommended library to parse JSON.',
-			'ok' => 'You have a recommended library to parse JSON.',
+			'nok' => 'Manca una libreria raccomandata per la codifica di JSON.',
+			'ok' => 'Libreria per la codifica JSON presente.',
 		),
 		'minz' => array(
 			'nok' => 'Manca il framework Minz.',
@@ -92,8 +92,8 @@ return array(
 			'ok' => 'I permessi sulla cartella users sono corretti.',
 		),
 		'xml' => array(
-			'nok' => 'You lack the required library to parse XML.',
-			'ok' => 'You have the required library to parse XML.',
+			'nok' => 'Manca una libreria richiesta per intepretare XML.',
+			'ok' => 'Libreria richiesta per interpretare XML presente.',
 		),
 	),
 	'conf' => array(
